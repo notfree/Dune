@@ -1,0 +1,15 @@
+# Reference Prompts for Various Scenes
+
+“Aerial Arrakis Panorama”:  
+- Panoramic view of endless dunes at dusk, ultra high-definition.
+
+“Fremen Hideout”:  
+- Interior cave with water collectors, earthy tones, torchlight.
+
+“Bene Gesserit Reverie”:  
+- Close-up of a Bene Gesserit Sister’s face under a hood, intense eyes.
+
+“Sandworm Emergence”:  
+- Massive worm breaching, sand scattering in slow motion.
+
+Use these as references or starting points. Contributors can blend these prompts or tweak details.

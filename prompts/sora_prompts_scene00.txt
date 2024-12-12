@@ -1,0 +1,18 @@
+# Sora Prompts for Scene 00 POC
+
+1. “Aerial Arrakis Panorama”
+   - 4K wide shot: Golden dunes under orange/purple sunset.
+   - Dust drifting in the wind.
+   - Tiny silhouettes of spice harvesters in the far distance.
+
+2. “Close-up of Spice”
+   - Macro shot of shimmering spice melange particles.
+   - Reflecting subtle rainbow hues.
+
+3. “Desert Twilight Camp”
+   - Soft lighting, tents, footprints in sand.
+   - Use this for background detail if needed.
+
+For Scene 00, focus on:
+- Aerial Arrakis Panorama (for the establishing shot)
+- Close-up of Spice (for the scout’s hand sifting sand)

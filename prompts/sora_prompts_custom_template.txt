@@ -1,0 +1,9 @@
+# Custom Prompt Template
+
+Title: “Your Prompt Title”
+Visuals: Describe the scene in detail (color, lighting, style)
+Characters: Who is in the scene? What are they doing?
+Mood/Atmosphere: What feelings should the scene evoke?
+Technical Details: Resolution, frame rate, special camera angles, etc.
+
+Fill out this template when adding new prompts.
